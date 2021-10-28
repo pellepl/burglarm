@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP nrf528324_mod_mkbno2
+D nrf52832 SMT module PCB antenna
+F https://www.mokotek.com/wp-content/uploads/2019/11/MK02.pdf
+$ENDCMP
+#
+#End Doc Library
