@@ -13,17 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L pelle:nrf528324_mod_mkbno2 U1
-U 1 1 6175A458
-P 2400 1850
-F 0 "U1" H 2400 2675 50  0000 C CNN
-F 1 "nrf528324_mod_mkbno2" H 2400 2584 50  0000 C CNN
-F 2 "pelle:mkbno2" H 3900 2450 50  0001 C CNN
-F 3 "https://www.mokotek.com/wp-content/uploads/2019/11/MK02.pdf" H 3900 2450 50  0001 C CNN
-	1    2400 1850
-	1    0    0    -1  
-$EndComp
 Wire Notes Line
 	2450 1850 2400 1850
 $Comp
@@ -559,4 +548,15 @@ Wire Wire Line
 Connection ~ 9150 2000
 Wire Wire Line
 	9150 2000 9150 2150
+$Comp
+L pelle:nrf52832_mod_holyiot17095 U1
+U 1 1 618713D1
+P 2250 5450
+F 0 "U1" H 2250 5915 50  0000 C CNN
+F 1 "nrf52832_mod_holyiot17095" H 2250 5824 50  0000 C CNN
+F 2 "pelle:holyiot17095" H 2250 5900 50  0001 C CNN
+F 3 "http://www.holyiot.com/tp/2019042710544136913.pdf" H 2250 5900 50  0001 C CNN
+	1    2250 5450
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

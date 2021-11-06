@@ -5,4 +5,8 @@ D nrf52832 SMT module PCB antenna
 F https://www.mokotek.com/wp-content/uploads/2019/11/MK02.pdf
 $ENDCMP
 #
+$CMP nrf52832_mod_holyiot17095
+F http://www.holyiot.com/tp/2019042710544136913.pdf
+$ENDCMP
+#
 #End Doc Library
